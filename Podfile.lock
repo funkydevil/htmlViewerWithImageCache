@@ -1,0 +1,13 @@
+PODS:
+  - InnerBand (1.0.6)
+  - NSString-Hashes (1.2.2)
+
+DEPENDENCIES:
+  - InnerBand (~> 1.0)
+  - NSString-Hashes (~> 1.2)
+
+SPEC CHECKSUMS:
+  InnerBand: 06b6d56d575405dbd84ecafb9af3c0776448b6aa
+  NSString-Hashes: ddf6e856e93d3c83c5d4ef8fcdea2a96ed77c6bc
+
+COCOAPODS: 0.33.1

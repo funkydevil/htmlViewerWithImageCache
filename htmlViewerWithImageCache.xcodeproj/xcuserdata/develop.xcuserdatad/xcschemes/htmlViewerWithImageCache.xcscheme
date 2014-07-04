@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   version = "1.3">
+   <BuildAction>
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForRunning = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "5CF6F3544BD1ADBB9F7BD42E"
+               BuildableName = "htmlViewerWithImageCache.app"
+               BlueprintName = "htmlViewerWithImageCache"
+               ReferencedContainer = "container:htmlViewerWithImageCache.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <LaunchAction
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Debug">
+      <BuildableProductRunnable>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "5CF6F3544BD1ADBB9F7BD42E"
+            BuildableName = "htmlViewerWithImageCache.app"
+            BlueprintName = "htmlViewerWithImageCache"
+            ReferencedContainer = "container:htmlViewerWithImageCache.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </LaunchAction>
+</Scheme>
